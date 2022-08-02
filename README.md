@@ -31,8 +31,7 @@ VOC Yolo tag modification conversion script
 
     运行前：
  
-![在这里插入图片描述](https://img-blog.csdnimg.cn/e12b739bcf5e47119c916fe3a09c43ef.png)
-
+![在这里插入图片描述](https://img-blog.csdnimg.cn/e12b739bcf5e47119c916fe3a09c43ef.png) 
     运行后：
  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/63d35cb7fc2d46fda2c574cc2b6242c3.png)
