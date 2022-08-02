@@ -36,27 +36,32 @@ VOC Yolo tag modification conversion script
 ## txt_xml.py
 - 代码作用：txt标签格式和对应jpg图片转换xml标签格式
 - 1、txt和对应jpg放在同一文件夹内
-![在这里插入图片描述](https://img-blog.csdnimg.cn/a54a194eeb7044ca98b2e8de631dc3bb.png =100x)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/a54a194eeb7044ca98b2e8de631dc3bb.png)
 - 2、修改目标文件夹路径
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/d9336cdd1d1d45df82978d2e2c239d72.png)
 
-- 3、运行txt_xml.py![在这里插入图片描述](https://img-blog.csdnimg.cn/8db596b3289a4ce9a6f09d80bd18073d.png =500x)
+- 3、运行txt_xml.py![在这里插入图片描述](https://img-blog.csdnimg.cn/8db596b3289a4ce9a6f09d80bd18073d.png)
 - 4、结果展示
 
     运行前：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/3a897ea19e5343a780202a49b3f0d2e9.png)
+
     运行后：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/8c38b35d6c704beebbde1a8558129c40.png)
+
 可在labelimg中打开（注意txt中的标签0会变成xml中的标签1）
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/89c9092899d04714b20690a4830b3f60.png)
-![在这里插入图片描述](https://img-blog.csdnimg.cn/95742c0c260649d68813be6285ce053c.png =100x)
+![在这里插入图片描述](https://img-blog.csdnimg.cn/95742c0c260649d68813be6285ce053c.png)
 在文件夹中搜索xml即可得到文件
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/de600f7dce574fb190528fdaf231f9d3.png)
 ## xml_change_label.py
 - 代码作用：修改xml标签名称
 - 1、修改存放xml标签文件的文件夹路径
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f9105660de0249d0a8dae68be72b26d2.png)
+
 - 2、修改自己想要修改的标签，例：1->car，标签数不同删减或增加elif语句即可
+- 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/b3a06933ee44423f835452e2f5b3c172.png)
 - 3、运行xml_change_label.py
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f5bee56047ea48a5b284e74db8a8c4dd.png)
@@ -64,6 +69,7 @@ VOC Yolo tag modification conversion script
 
     运行前：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2e4e1af96b6841ff8ec46e93593e4a33.png)
+
     运行后：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/a145d63f7a8a4080a48feba074ad3663.png)
 
@@ -71,7 +77,9 @@ VOC Yolo tag modification conversion script
 - 代码作用：xml标签格式转换txt标签格式
 - 1、修改带修改xml文件夹和目标txt文件夹路径
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/5f06aa398049420a868e0b5620d21fda.png)
+
 温馨提示：注意，如果读取当前路径的话，前两个路径要修改成相对路径
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/9cc6003798c244218b9cc62e525a5b2e.png)
 - 2、换成待转换xml标签名称所想排顺序的名称序列
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e96261180bae483aa56b28d982564829.png)
