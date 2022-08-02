@@ -29,11 +29,11 @@ VOC Yolo tag modification conversion script
 
 - 4、结果展示
 
-    运行前：
+运行前：
  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/e12b739bcf5e47119c916fe3a09c43ef.png)
 
-    运行后：
+运行后：
  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/63d35cb7fc2d46fda2c574cc2b6242c3.png)
 
@@ -48,13 +48,14 @@ VOC Yolo tag modification conversion script
 - 3、运行txt_xml.py
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/8db596b3289a4ce9a6f09d80bd18073d.png)
+
 - 4、结果展示
 
-    运行前：
+运行前：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/3a897ea19e5343a780202a49b3f0d2e9.png)
 
-    运行后：
+运行后：
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/8c38b35d6c704beebbde1a8558129c40.png)
 
@@ -78,17 +79,19 @@ VOC Yolo tag modification conversion script
 - 3、运行xml_change_label.py
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/f5bee56047ea48a5b284e74db8a8c4dd.png)
+
 - 4、结果展示
 
-    运行前：
+运行前：
     
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/2e4e1af96b6841ff8ec46e93593e4a33.png)
 
-    运行后：
+运行后：
     
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/a145d63f7a8a4080a48feba074ad3663.png)
 ## xml_txt.py
 - 代码作用：xml标签格式转换txt标签格式
+
 - 1、修改带修改xml文件夹和目标txt文件夹路径
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/5f06aa398049420a868e0b5620d21fda.png)
@@ -102,13 +105,14 @@ VOC Yolo tag modification conversion script
 - 3、运行xml_txt.py
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/0ed252a7746f4547af14d93d00a6d902.png)
+
 4、结果展示
 
-    运行前：
+运行前：
     
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/dc3ad21e442f483893e37fcd022c8f37.png)
 
-    运行后：
+运行后：
     
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/c058a7b656e94ad5b61db84262ba371c.png)
 
