@@ -1,5 +1,14 @@
 # xml_txt_mutual_conversion
 VOC Yolo tag modification conversion script
+
+Github：
+
+链接: [https://github.com/Samsara0Null/xml_txt_mutual_conversion](https://github.com/Samsara0Null/xml_txt_mutual_conversion)
+
+CSDN主页：
+
+链接: [https://blog.csdn.net/noneNull0?type=blog](https://blog.csdn.net/noneNull0?type=blog)
+
 ## 这是一些帮助转换txt和xml格式标签文件格式和修改标签名称的脚本（适用于VOC-yolo项目格式的标签）
 ### 可能需要安装一些依赖，配置好环境（跟着MoudleNotFound报错走就好了）
 ### 我的环境：
