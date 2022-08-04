@@ -9,6 +9,9 @@ CSDN主页：
 
 链接: [https://blog.csdn.net/noneNull0?type=blog](https://blog.csdn.net/noneNull0?type=blog)
 
+Bilibili视频演示讲解：
+
+链接: [https://www.bilibili.com/video/BV1ie4y1D77dvd_source=a6067b731745325c01a4edfa46bf5a04](https://www.bilibili.com/video/BV1ie4y1D77d?vd_source=a6067b731745325c01a4edfa46bf5a04)
 ## 这是一些帮助转换txt和xml格式标签文件格式和修改标签名称的脚本（适用于VOC-yolo项目格式的标签）
 ### 可能需要安装一些依赖，配置好环境（跟着MoudleNotFound报错走就好了）
 ### 我的环境：
