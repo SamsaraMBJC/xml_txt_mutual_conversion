@@ -23,7 +23,7 @@ CSDN主页：
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/36050202a84f4cb0bddc7762ec7227ae.png)
 ## txt_change_label.py
 - 代码作用：修改txt标签名称
-- 1、修改存放xml标签文件的文件夹路径
+- 1、修改存放txt标签文件的文件夹路径
     这里用了相对脚本的路径
  
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/ec53d0c1f9cf475a8273c90c1b08130f.png)
@@ -101,7 +101,7 @@ CSDN主页：
 ## xml_txt.py
 - 代码作用：xml标签格式转换txt标签格式
 
-- 1、修改带修改xml文件夹和目标txt文件夹路径
+- 1、修改待修改xml文件夹和目标txt文件夹路径
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/5f06aa398049420a868e0b5620d21fda.png)
 
