@@ -16,7 +16,7 @@ Bilibili视频演示讲解：
 umm，评论区有提出在使用txt_xml.py时，标签为字符类型，会报类似ValueError: could not convert string 'A' to float64 at row 0, column 1.
 雀氏有道理，简单修改了一下，作为补充，用法同之前，修改路径，应该可以直接用，有相关需求可以尝试一下
 
-链接: [https://wwin.lanzoue.com/iR4dB0pd63fi](https://wwin.lanzoue.com/iR4dB0pd63fi)
+链接: [https://wwin.lanzoue.com/i12Yt0pj83fg](https://wwin.lanzoue.com/i12Yt0pj83fg)
 
 ## 这是一些帮助转换txt和xml格式标签文件格式和修改标签名称的脚本（适用于VOC-yolo项目格式的标签）
 ### 可能需要安装一些依赖，配置好环境（跟着MoudleNotFound报错走就好了）
